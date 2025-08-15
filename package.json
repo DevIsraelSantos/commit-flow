@@ -1,0 +1,20 @@
+{
+  "name": "commit-flow",
+  "version": "1.0.0",
+  "description": "Automated commit workflow with Conventional Commits, commit validation, and changelog generation. (pt-BR) Fluxo automatizado de commits usando Conventional Commits, validação e geração automática de changelog.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevIsraelSantos/commit-flow.git"
+  },
+  "keywords": [],
+  "author": "IsraelMurilo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevIsraelSantos/commit-flow/issues"
+  },
+  "homepage": "https://github.com/DevIsraelSantos/commit-flow#readme"
+}
